@@ -11,7 +11,7 @@ allprojects {
 }
 
 jar {
-    archiveBaseName = 'tcb-scf-java-demo'
+    archiveBaseName = 'scf-java-demo'
     archiveVersion =  '0.0.1'
 }
 
