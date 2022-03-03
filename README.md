@@ -30,7 +30,7 @@ build/distributions
 
 在控制台选择对应的 zip 文件上传：
 
-![Deploy via Console](https://user-images.githubusercontent.com/251222/156494330-e6735398-18e4-44ba-a132-79b21d95c603.png)
+![Deploy via Console](https://user-images.githubusercontent.com/251222/156495795-2278947e-2c6b-4c4c-b0a4-b850e866475e.png)
 
 在控制台进行测试：
 
